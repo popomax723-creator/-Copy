@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of سوبر ماركت الشارقة",
+  "description": "تطبيق تسوق عصري لإدارة المنتجات والطلبات مع لوحة تحكم ذكية.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
